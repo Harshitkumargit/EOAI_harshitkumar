@@ -1,0 +1,11 @@
+{
+  "cog": "https://s3.us-west-2.amazonaws.com/sentinel-cogs/sentinel-s2-l2a-cogs/43/R/FQ/2025/12/S2B_43RFQ_20251222_0_L2A/B04.tif",
+  "reference": "https://s3.eu-central-1.amazonaws.com/sentinel-s2-l2a/tiles/43/R/FQ/2025/12/22/0/R10m/B04.jp2",
+  "window": [
+    1200,
+    8000,
+    128,
+    128
+  ],
+  "error": "CURL error: Could not resolve host: s3.us-west-2.amazonaws.com"
+}

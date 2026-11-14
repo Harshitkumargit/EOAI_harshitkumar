@@ -1,0 +1,78 @@
+{
+  "project": "Punjab Vegetation Watch",
+  "codes": [
+    "R1",
+    "S1",
+    "D1",
+    "T2"
+  ],
+  "configuration_status": "confirmed by applicant against assigned R1/S1/D1/T2 configuration",
+  "aoi": {
+    "bbox": [
+      75.95,
+      30.55,
+      76.25,
+      30.85
+    ],
+    "crs": "EPSG:32643",
+    "resolution_m": 20,
+    "cell_size_m": 3000
+  },
+  "time": {
+    "start": "2024-11-01",
+    "end": "2026-04-26"
+  },
+  "stac": {
+    "url": "https://earth-search.aws.element84.com/v1",
+    "collection": "sentinel-2-l2a",
+    "max_cloud": 40,
+    "timeout_seconds": 60,
+    "attempts": 3,
+    "raster_attempts": 4,
+    "retry_backoff_seconds": 0.5
+  },
+  "quality": {
+    "scl_keep": [
+      4,
+      5
+    ],
+    "min_valid_fraction": 0.3,
+    "denominator_epsilon": 1e-06,
+    "max_forward_fill_weeks": 1
+  },
+  "split": {
+    "train_start": "2024-11-04",
+    "train_end": "2025-04-21",
+    "test_start": "2025-11-03",
+    "test_end": "2026-04-20"
+  },
+  "model": {
+    "lags": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "max_iter": 200,
+    "learning_rate": 0.05,
+    "max_leaf_nodes": 15,
+    "min_samples_leaf": 20,
+    "l2_regularization": 1.0,
+    "seed": 42,
+    "threads": 2,
+    "min_train_rows": 100,
+    "min_train_weeks": 8,
+    "min_test_weeks": 4,
+    "candidate_pool": "stable"
+  },
+  "evaluation": {
+    "top_n": 10,
+    "bootstrap_replicates": 500,
+    "bootstrap_block_weeks": 4
+  },
+  "paths": {
+    "cache": "data/live",
+    "live_outputs": "outputs/live",
+    "demo_outputs": "outputs/demo"
+  }
+}

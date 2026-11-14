@@ -1,0 +1,22 @@
+{
+  "baseline": "outputs\\live\\runs\\20261113T114046Z-de07da2a",
+  "revised": "outputs\\research\\runs\\20261113T173308Z-12621b86",
+  "original_rows": 698,
+  "revised_rows": 1161,
+  "common_rows": 698,
+  "same_sample": {
+    "original": {
+      "mae": 0.06702259133189287,
+      "rmse": 0.09897730621567932
+    },
+    "revised": {
+      "mae": 0.06511445752453879,
+      "rmse": 0.10783184153716309
+    },
+    "persistence": {
+      "mae": 0.06511445752453879,
+      "rmse": 0.10783184153716309
+    }
+  },
+  "note": "Expanded-sample MAE cannot be directly compared to original-sample MAE."
+}

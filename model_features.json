@@ -1,0 +1,222 @@
+{
+  "order": [
+    "lag0",
+    "lag1",
+    "lag2",
+    "lag3",
+    "delta1",
+    "roll4",
+    "sin_year",
+    "cos_year",
+    "history_count",
+    "valid_fraction",
+    "n_days"
+  ],
+  "parameters": {
+    "lags": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "max_iter": 200,
+    "learning_rate": 0.05,
+    "max_leaf_nodes": 15,
+    "min_samples_leaf": 20,
+    "l2_regularization": 1.0,
+    "seed": 42,
+    "threads": 2,
+    "min_train_rows": 100,
+    "min_train_weeks": 8,
+    "min_test_weeks": 4,
+    "candidate_pool": "stable"
+  },
+  "early_stopping": false,
+  "selection": {
+    "selected": "persistence",
+    "objective": "mean weekly MAE",
+    "candidate_scores": {
+      "persistence": 0.07288439944112653,
+      "direct": 0.1439418480901772,
+      "residual": 0.14828359030717222
+    },
+    "folds": [
+      {
+        "candidate": "persistence",
+        "train_end": "2024-12-23",
+        "validation_start": "2025-02-03",
+        "validation_end": "2025-02-24",
+        "rows": 18,
+        "train_rows": 583,
+        "weekly_mae": {
+          "2025-02-03": 0.17188621644130306,
+          "2025-02-10": 0.05171491110068305,
+          "2025-02-17": 0.0410416953925369,
+          "2025-02-24": 0.033334961201408886
+        },
+        "mae": 0.06975636541275151
+      },
+      {
+        "candidate": "persistence",
+        "train_end": "2025-02-17",
+        "validation_start": "2025-03-03",
+        "validation_end": "2025-03-24",
+        "rows": 33,
+        "train_rows": 599,
+        "weekly_mae": {
+          "2025-03-03": 0.10436088704912098,
+          "2025-03-10": 0.02612130192936986,
+          "2025-03-17": 0.035346699105095025,
+          "2025-03-24": 0.04872362135994382
+        },
+        "mae": 0.04650231717054702
+      },
+      {
+        "candidate": "persistence",
+        "train_end": "2025-03-17",
+        "validation_start": "2025-03-31",
+        "validation_end": "2025-04-21",
+        "rows": 305,
+        "train_rows": 627,
+        "weekly_mae": {
+          "2025-03-31": 0.07089079740842122,
+          "2025-04-07": 0.0669714964713797,
+          "2025-04-14": 0.1753830629176111,
+          "2025-04-21": 0.048837142916644774
+        },
+        "mae": 0.1027217029102201
+      },
+      {
+        "candidate": "direct",
+        "train_end": "2024-12-23",
+        "validation_start": "2025-02-03",
+        "validation_end": "2025-02-24",
+        "rows": 18,
+        "train_rows": 583,
+        "weekly_mae": {
+          "2025-02-03": 0.21768868457679538,
+          "2025-02-10": 0.074711825996654,
+          "2025-02-17": 0.0928474107906726,
+          "2025-02-24": 0.18895851692632135
+        },
+        "mae": 0.14426484809293255
+      },
+      {
+        "candidate": "direct",
+        "train_end": "2025-02-17",
+        "validation_start": "2025-03-03",
+        "validation_end": "2025-03-24",
+        "rows": 33,
+        "train_rows": 599,
+        "weekly_mae": {
+          "2025-03-03": 0.19259965292358258,
+          "2025-03-10": 0.0487730512270978,
+          "2025-03-17": 0.17091128884905657,
+          "2025-03-24": 0.2672635540986947
+        },
+        "mae": 0.15898115616437494
+      },
+      {
+        "candidate": "direct",
+        "train_end": "2025-03-17",
+        "validation_start": "2025-03-31",
+        "validation_end": "2025-04-21",
+        "rows": 305,
+        "train_rows": 627,
+        "weekly_mae": {
+          "2025-03-31": 0.08387702806190622,
+          "2025-04-07": 0.07030881883112747,
+          "2025-04-14": 0.1388874939525696,
+          "2025-04-21": 0.18047485084764814
+        },
+        "mae": 0.14143535202033913
+      },
+      {
+        "candidate": "residual",
+        "train_end": "2024-12-23",
+        "validation_start": "2025-02-03",
+        "validation_end": "2025-02-24",
+        "rows": 18,
+        "train_rows": 583,
+        "weekly_mae": {
+          "2025-02-03": 0.29950461847683474,
+          "2025-02-10": 0.09114086760255158,
+          "2025-02-17": 0.14180059373628845,
+          "2025-02-24": 0.23738034193570026
+        },
+        "mae": 0.19495257493395698
+      },
+      {
+        "candidate": "residual",
+        "train_end": "2025-02-17",
+        "validation_start": "2025-03-03",
+        "validation_end": "2025-03-24",
+        "rows": 33,
+        "train_rows": 599,
+        "weekly_mae": {
+          "2025-03-03": 0.12312188837232318,
+          "2025-03-10": 0.07534132175908459,
+          "2025-03-17": 0.16510981563758645,
+          "2025-03-24": 0.18052425576225403
+        },
+        "mae": 0.13077596225511182
+      },
+      {
+        "candidate": "residual",
+        "train_end": "2025-03-17",
+        "validation_start": "2025-03-31",
+        "validation_end": "2025-04-21",
+        "rows": 305,
+        "train_rows": 627,
+        "weekly_mae": {
+          "2025-03-31": 0.07760465308189321,
+          "2025-04-07": 0.06346839405893573,
+          "2025-04-14": 0.17751005332246414,
+          "2025-04-21": 0.1468962799401504
+        },
+        "mae": 0.14199560087789445
+      }
+    ],
+    "candidate_order": [
+      "persistence",
+      "direct",
+      "residual"
+    ],
+    "candidate_pool": "stable",
+    "fold_mean_weekly_mae": {
+      "persistence": [
+        0.07449444603398298,
+        0.05363812736088242,
+        0.0905206249285142
+      ],
+      "direct": [
+        0.14355160957261084,
+        0.1698868867746079,
+        0.11838704792331287
+      ],
+      "residual": [
+        0.19245660543784374,
+        0.13602432038281206,
+        0.11636984510086087
+      ]
+    },
+    "leave_one_fold_out": [
+      {
+        "omitted_fold": 0,
+        "selected": "persistence"
+      },
+      {
+        "omitted_fold": 1,
+        "selected": "persistence"
+      },
+      {
+        "omitted_fold": 2,
+        "selected": "persistence"
+      }
+    ],
+    "selection_caution": "Small correlated sample; validation winner is not proof of generalization.",
+    "scope": "earlier training season only; one calendar-week gap",
+    "evaluation_status": "development replay: later-season results were inspected before this revision"
+  },
+  "missing_history": "native NaN support; current observation required"
+}

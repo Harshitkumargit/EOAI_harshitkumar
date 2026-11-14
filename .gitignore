@@ -1,0 +1,9 @@
+# Local environments, derived imagery, and newly generated runs are not source.
+.venv/
+__pycache__/
+*.py[cod]
+data/
+outputs/
+browser-check/
+.pytest_cache/
+.env

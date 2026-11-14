@@ -1,0 +1,10 @@
+{
+  "discovered": 637,
+  "processed": 0,
+  "cached": 637,
+  "failed": [],
+  "note": "Cached-only: discovery completeness is unknown; unresolved cache failures are retained conservatively; no network request.",
+  "cache_path": "C:\\Users\\Lenovo\\Desktop\\eoailab_Assignment\\data\\live\\33570b657edd5813",
+  "processing_hash": "33570b657edd5813",
+  "cache_raster_bytes": 1042339239
+}

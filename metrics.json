@@ -1,0 +1,421 @@
+{
+  "n_test_rows": 1161,
+  "n_test_weeks": 21,
+  "n_test_cells": 120,
+  "requested_cell_weeks": 3000,
+  "evaluable_fraction": 0.387,
+  "primary": {
+    "model": {
+      "n": 1161,
+      "mae": 0.07235080146525058,
+      "rmse": 0.11578706928135508
+    },
+    "persist": {
+      "n": 1161,
+      "mae": 0.07235080146525058,
+      "rmse": 0.11578706928135508
+    }
+  },
+  "skill_vs_persistence": 0.0,
+  "skill_ci95": [
+    0.0,
+    0.0
+  ],
+  "bootstrap": {
+    "replicates": 500,
+    "block_weeks": 4,
+    "unit": "contiguous calendar weeks, all cells together",
+    "interpretation": "descriptive holdout stability, not a per-cell prediction interval"
+  },
+  "ranking": {
+    "model": {
+      "mean_overlap": 0.475,
+      "n_weeks": 8,
+      "top_n": 10
+    },
+    "persist": {
+      "mean_overlap": 0.475,
+      "n_weeks": 8,
+      "top_n": 10
+    }
+  },
+  "seasonal_common_sample": {
+    "n": 1036,
+    "methods": {
+      "model": {
+        "n": 1036,
+        "mae": 0.07060377627223043,
+        "rmse": 0.10670161350498293
+      },
+      "persist": {
+        "n": 1036,
+        "mae": 0.07060377627223043,
+        "rmse": 0.10670161350498293
+      },
+      "seasonal": {
+        "n": 1036,
+        "mae": 0.07547396814911768,
+        "rmse": 0.12988489903934133
+      }
+    },
+    "ranking": {
+      "model": {
+        "mean_overlap": 0.55,
+        "n_weeks": 8,
+        "top_n": 10
+      },
+      "persist": {
+        "mean_overlap": 0.55,
+        "n_weeks": 8,
+        "top_n": 10
+      },
+      "seasonal": {
+        "mean_overlap": 0.5125,
+        "n_weeks": 8,
+        "top_n": 10
+      }
+    }
+  },
+  "truth": "later observed weekly satellite NDVI; no field stress labels",
+  "test_start": "2025-11-03",
+  "test_end": "2026-04-20",
+  "selection": {
+    "selected": "persistence",
+    "objective": "mean weekly MAE",
+    "candidate_scores": {
+      "persistence": 0.07288439944112653,
+      "direct": 0.1439418480901772,
+      "residual": 0.14828359030717222
+    },
+    "folds": [
+      {
+        "candidate": "persistence",
+        "train_end": "2024-12-23",
+        "validation_start": "2025-02-03",
+        "validation_end": "2025-02-24",
+        "rows": 18,
+        "train_rows": 583,
+        "weekly_mae": {
+          "2025-02-03": 0.17188621644130306,
+          "2025-02-10": 0.05171491110068305,
+          "2025-02-17": 0.0410416953925369,
+          "2025-02-24": 0.033334961201408886
+        },
+        "mae": 0.06975636541275151
+      },
+      {
+        "candidate": "persistence",
+        "train_end": "2025-02-17",
+        "validation_start": "2025-03-03",
+        "validation_end": "2025-03-24",
+        "rows": 33,
+        "train_rows": 599,
+        "weekly_mae": {
+          "2025-03-03": 0.10436088704912098,
+          "2025-03-10": 0.02612130192936986,
+          "2025-03-17": 0.035346699105095025,
+          "2025-03-24": 0.04872362135994382
+        },
+        "mae": 0.04650231717054702
+      },
+      {
+        "candidate": "persistence",
+        "train_end": "2025-03-17",
+        "validation_start": "2025-03-31",
+        "validation_end": "2025-04-21",
+        "rows": 305,
+        "train_rows": 627,
+        "weekly_mae": {
+          "2025-03-31": 0.07089079740842122,
+          "2025-04-07": 0.0669714964713797,
+          "2025-04-14": 0.1753830629176111,
+          "2025-04-21": 0.048837142916644774
+        },
+        "mae": 0.1027217029102201
+      },
+      {
+        "candidate": "direct",
+        "train_end": "2024-12-23",
+        "validation_start": "2025-02-03",
+        "validation_end": "2025-02-24",
+        "rows": 18,
+        "train_rows": 583,
+        "weekly_mae": {
+          "2025-02-03": 0.21768868457679538,
+          "2025-02-10": 0.074711825996654,
+          "2025-02-17": 0.0928474107906726,
+          "2025-02-24": 0.18895851692632135
+        },
+        "mae": 0.14426484809293255
+      },
+      {
+        "candidate": "direct",
+        "train_end": "2025-02-17",
+        "validation_start": "2025-03-03",
+        "validation_end": "2025-03-24",
+        "rows": 33,
+        "train_rows": 599,
+        "weekly_mae": {
+          "2025-03-03": 0.19259965292358258,
+          "2025-03-10": 0.0487730512270978,
+          "2025-03-17": 0.17091128884905657,
+          "2025-03-24": 0.2672635540986947
+        },
+        "mae": 0.15898115616437494
+      },
+      {
+        "candidate": "direct",
+        "train_end": "2025-03-17",
+        "validation_start": "2025-03-31",
+        "validation_end": "2025-04-21",
+        "rows": 305,
+        "train_rows": 627,
+        "weekly_mae": {
+          "2025-03-31": 0.08387702806190622,
+          "2025-04-07": 0.07030881883112747,
+          "2025-04-14": 0.1388874939525696,
+          "2025-04-21": 0.18047485084764814
+        },
+        "mae": 0.14143535202033913
+      },
+      {
+        "candidate": "residual",
+        "train_end": "2024-12-23",
+        "validation_start": "2025-02-03",
+        "validation_end": "2025-02-24",
+        "rows": 18,
+        "train_rows": 583,
+        "weekly_mae": {
+          "2025-02-03": 0.29950461847683474,
+          "2025-02-10": 0.09114086760255158,
+          "2025-02-17": 0.14180059373628845,
+          "2025-02-24": 0.23738034193570026
+        },
+        "mae": 0.19495257493395698
+      },
+      {
+        "candidate": "residual",
+        "train_end": "2025-02-17",
+        "validation_start": "2025-03-03",
+        "validation_end": "2025-03-24",
+        "rows": 33,
+        "train_rows": 599,
+        "weekly_mae": {
+          "2025-03-03": 0.12312188837232318,
+          "2025-03-10": 0.07534132175908459,
+          "2025-03-17": 0.16510981563758645,
+          "2025-03-24": 0.18052425576225403
+        },
+        "mae": 0.13077596225511182
+      },
+      {
+        "candidate": "residual",
+        "train_end": "2025-03-17",
+        "validation_start": "2025-03-31",
+        "validation_end": "2025-04-21",
+        "rows": 305,
+        "train_rows": 627,
+        "weekly_mae": {
+          "2025-03-31": 0.07760465308189321,
+          "2025-04-07": 0.06346839405893573,
+          "2025-04-14": 0.17751005332246414,
+          "2025-04-21": 0.1468962799401504
+        },
+        "mae": 0.14199560087789445
+      }
+    ],
+    "candidate_order": [
+      "persistence",
+      "direct",
+      "residual"
+    ],
+    "candidate_pool": "stable",
+    "fold_mean_weekly_mae": {
+      "persistence": [
+        0.07449444603398298,
+        0.05363812736088242,
+        0.0905206249285142
+      ],
+      "direct": [
+        0.14355160957261084,
+        0.1698868867746079,
+        0.11838704792331287
+      ],
+      "residual": [
+        0.19245660543784374,
+        0.13602432038281206,
+        0.11636984510086087
+      ]
+    },
+    "leave_one_fold_out": [
+      {
+        "omitted_fold": 0,
+        "selected": "persistence"
+      },
+      {
+        "omitted_fold": 1,
+        "selected": "persistence"
+      },
+      {
+        "omitted_fold": 2,
+        "selected": "persistence"
+      }
+    ],
+    "selection_caution": "Small correlated sample; validation winner is not proof of generalization.",
+    "scope": "earlier training season only; one calendar-week gap",
+    "evaluation_status": "development replay: later-season results were inspected before this revision"
+  },
+  "coverage_diagnostics": {
+    "requested": 3000,
+    "observed_origin": 1532,
+    "observed_target": 1532,
+    "observed_origin_and_target": 1161,
+    "complete_observed_history_and_target": 622,
+    "scored": 1161
+  },
+  "by_week": [
+    {
+      "target_week": "2025-11-03",
+      "n": 120,
+      "model_mae": 0.043580928125692454,
+      "persistence_mae": 0.043580928125692454
+    },
+    {
+      "target_week": "2025-11-10",
+      "n": 120,
+      "model_mae": 0.026068825887519225,
+      "persistence_mae": 0.026068825887519225
+    },
+    {
+      "target_week": "2025-11-17",
+      "n": 120,
+      "model_mae": 0.023409380968167772,
+      "persistence_mae": 0.023409380968167772
+    },
+    {
+      "target_week": "2025-11-24",
+      "n": 118,
+      "model_mae": 0.10270452107811895,
+      "persistence_mae": 0.10270452107811895
+    },
+    {
+      "target_week": "2025-12-01",
+      "n": 77,
+      "model_mae": 0.05200329437564754,
+      "persistence_mae": 0.05200329437564754
+    },
+    {
+      "target_week": "2025-12-08",
+      "n": 52,
+      "model_mae": 0.0374749529074913,
+      "persistence_mae": 0.0374749529074913
+    },
+    {
+      "target_week": "2025-12-15",
+      "n": 46,
+      "model_mae": 0.07720640207048649,
+      "persistence_mae": 0.07720640207048649
+    },
+    {
+      "target_week": "2025-12-22",
+      "n": 61,
+      "model_mae": 0.24364007032501533,
+      "persistence_mae": 0.24364007032501533
+    },
+    {
+      "target_week": "2026-01-12",
+      "n": 4,
+      "model_mae": 0.03947614987434121,
+      "persistence_mae": 0.03947614987434121
+    },
+    {
+      "target_week": "2026-01-19",
+      "n": 3,
+      "model_mae": 0.06953472874113513,
+      "persistence_mae": 0.06953472874113513
+    },
+    {
+      "target_week": "2026-01-26",
+      "n": 3,
+      "model_mae": 0.06730228663116995,
+      "persistence_mae": 0.06730228663116995
+    },
+    {
+      "target_week": "2026-02-02",
+      "n": 4,
+      "model_mae": 0.05953852574630911,
+      "persistence_mae": 0.05953852574630911
+    },
+    {
+      "target_week": "2026-02-09",
+      "n": 6,
+      "model_mae": 0.025639733566242145,
+      "persistence_mae": 0.025639733566242145
+    },
+    {
+      "target_week": "2026-02-16",
+      "n": 7,
+      "model_mae": 0.02596008813239154,
+      "persistence_mae": 0.02596008813239154
+    },
+    {
+      "target_week": "2026-02-23",
+      "n": 15,
+      "model_mae": 0.03474486954293126,
+      "persistence_mae": 0.03474486954293126
+    },
+    {
+      "target_week": "2026-03-02",
+      "n": 33,
+      "model_mae": 0.025980017306508306,
+      "persistence_mae": 0.025980017306508306
+    },
+    {
+      "target_week": "2026-03-09",
+      "n": 10,
+      "model_mae": 0.023129939288053614,
+      "persistence_mae": 0.023129939288053614
+    },
+    {
+      "target_week": "2026-03-16",
+      "n": 4,
+      "model_mae": 0.04400946442299744,
+      "persistence_mae": 0.04400946442299744
+    },
+    {
+      "target_week": "2026-04-06",
+      "n": 120,
+      "model_mae": 0.021398439215764946,
+      "persistence_mae": 0.021398439215764946
+    },
+    {
+      "target_week": "2026-04-13",
+      "n": 119,
+      "model_mae": 0.20630424309638992,
+      "persistence_mae": 0.20630424309638992
+    },
+    {
+      "target_week": "2026-04-20",
+      "n": 119,
+      "model_mae": 0.05294591215859209,
+      "persistence_mae": 0.05294591215859209
+    }
+  ],
+  "mean_weekly_mae": {
+    "model": 0.06200251302195075,
+    "persistence": 0.06200251302195075
+  },
+  "training": {
+    "n": 942,
+    "n_weeks": 20,
+    "target_start": "2024-11-11",
+    "target_end": "2025-04-21"
+  },
+  "refit": {
+    "n": 3313,
+    "n_weeks": 57,
+    "note": "Separate final fit on available historical observed targets; not used in held-out scores."
+  },
+  "data_mode": "satellite",
+  "radiometry_status": "provisional_unverified"
+}

@@ -1,0 +1,55 @@
+{
+  "note": "Nearest-neighbor 256x256 AOI diagnostic, not corrected training data. Plausibility does not prove the correct offset.",
+  "scenes": [
+    {
+      "id": "S2B_43RFQ_20251222_0_L2A",
+      "boa_offset_applied": true,
+      "baseline": "05.11",
+      "bands": {
+        "red": {
+          "asset_metadata": [
+            {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            }
+          ],
+          "tiff_scales": [
+            1.0
+          ],
+          "tiff_offsets": [
+            0.0
+          ]
+        }
+      },
+      "error": "'Grid' object has no attribute 'width'"
+    },
+    {
+      "id": "S2C_43RFQ_20251227_0_L2A",
+      "boa_offset_applied": true,
+      "baseline": "05.11",
+      "bands": {
+        "red": {
+          "asset_metadata": [
+            {
+              "nodata": 0,
+              "data_type": "uint16",
+              "spatial_resolution": 10,
+              "scale": 0.0001,
+              "offset": -0.1
+            }
+          ],
+          "tiff_scales": [
+            1.0
+          ],
+          "tiff_offsets": [
+            0.0
+          ]
+        }
+      },
+      "error": "'Grid' object has no attribute 'width'"
+    }
+  ]
+}

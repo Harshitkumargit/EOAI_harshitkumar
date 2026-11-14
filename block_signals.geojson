@@ -1,0 +1,5893 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9770202,
+              30.8501188
+            ],
+            [
+              75.9770184,
+              30.8499384
+            ],
+            [
+              75.9558951,
+              30.8500961
+            ],
+            [
+              75.9558933,
+              30.8499156
+            ],
+            [
+              75.9500373,
+              30.8499587
+            ],
+            [
+              75.9498951,
+              30.8355232
+            ],
+            [
+              75.9501042,
+              30.8355217
+            ],
+            [
+              75.9500064,
+              30.8255972
+            ],
+            [
+              75.9809516,
+              30.8253666
+            ],
+            [
+              75.9812031,
+              30.8500872
+            ],
+            [
+              75.9770202,
+              30.8501188
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B001",
+        "total_px": 20201,
+        "area_km2": 8.0804,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4421608717,
+        "prediction": 0.4421608717,
+        "change": 0.0,
+        "valid_fraction": 0.587149151,
+        "status": "incomplete_history_withheld",
+        "rank": null,
+        "shortlisted": false,
+        "shortlist_eligible": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9983545,
+              30.8501366
+            ],
+            [
+              75.9983526,
+              30.8499561
+            ],
+            [
+              75.9812031,
+              30.8500872
+            ],
+            [
+              75.9809516,
+              30.8253666
+            ],
+            [
+              76.0123145,
+              30.8251253
+            ],
+            [
+              76.012576,
+              30.8500261
+            ],
+            [
+              75.9983545,
+              30.8501366
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B002",
+        "total_px": 20618,
+        "area_km2": 8.2472,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3593279588,
+        "prediction": 0.3593279588,
+        "change": 0.0,
+        "valid_fraction": 0.8780677078,
+        "status": "eligible",
+        "rank": 50.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0408135,
+              30.8501632
+            ],
+            [
+              76.0408115,
+              30.8499827
+            ],
+            [
+              76.0194794,
+              30.8501524
+            ],
+            [
+              76.0194775,
+              30.849972
+            ],
+            [
+              76.012576,
+              30.8500261
+            ],
+            [
+              76.0123145,
+              30.8251253
+            ],
+            [
+              76.0436771,
+              30.8248765
+            ],
+            [
+              76.0439505,
+              30.8501379
+            ],
+            [
+              76.0408135,
+              30.8501632
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B003",
+        "total_px": 20832,
+        "area_km2": 8.3328,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3332674723,
+        "prediction": 0.3332674723,
+        "change": 0.0,
+        "valid_fraction": 0.9487327189,
+        "status": "eligible",
+        "rank": 29.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0619383,
+              30.8501721
+            ],
+            [
+              76.0619363,
+              30.8499917
+            ],
+            [
+              76.0439505,
+              30.8501379
+            ],
+            [
+              76.0436771,
+              30.8248765
+            ],
+            [
+              76.0750393,
+              30.82462
+            ],
+            [
+              76.0753229,
+              30.8500616
+            ],
+            [
+              76.0619383,
+              30.8501721
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B004",
+        "total_px": 21064,
+        "area_km2": 8.4256,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3549330678,
+        "prediction": 0.3549330678,
+        "change": 0.0,
+        "valid_fraction": 0.879699962,
+        "status": "eligible",
+        "rank": 48.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1043967,
+              30.8501778
+            ],
+            [
+              76.1043946,
+              30.8499974
+            ],
+            [
+              76.0832721,
+              30.8501758
+            ],
+            [
+              76.0832701,
+              30.8499954
+            ],
+            [
+              76.0753229,
+              30.8500616
+            ],
+            [
+              76.0750393,
+              30.82462
+            ],
+            [
+              76.1064011,
+              30.824356
+            ],
+            [
+              76.1066971,
+              30.8501582
+            ],
+            [
+              76.1043967,
+              30.8501778
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B005",
+        "total_px": 21273,
+        "area_km2": 8.5092,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3812317629,
+        "prediction": 0.3812317629,
+        "change": 0.0,
+        "valid_fraction": 0.7773703756,
+        "status": "eligible",
+        "rank": 64.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1257303,
+              30.8501746
+            ],
+            [
+              76.1257282,
+              30.8499941
+            ],
+            [
+              76.1066971,
+              30.8501582
+            ],
+            [
+              76.1064011,
+              30.824356
+            ],
+            [
+              76.1377624,
+              30.8240843
+            ],
+            [
+              76.138069,
+              30.8500667
+            ],
+            [
+              76.1257303,
+              30.8501746
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B006",
+        "total_px": 21509,
+        "area_km2": 8.6036,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3672032505,
+        "prediction": 0.3672032505,
+        "change": 0.0,
+        "valid_fraction": 0.7961783439,
+        "status": "eligible",
+        "rank": 54.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.168188,
+              30.8501594
+            ],
+            [
+              76.1681858,
+              30.849979
+            ],
+            [
+              76.1470637,
+              30.8501678
+            ],
+            [
+              76.1470616,
+              30.8499874
+            ],
+            [
+              76.138069,
+              30.8500667
+            ],
+            [
+              76.1377624,
+              30.8240843
+            ],
+            [
+              76.1691233,
+              30.8238051
+            ],
+            [
+              76.1694428,
+              30.8501481
+            ],
+            [
+              76.168188,
+              30.8501594
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B007",
+        "total_px": 21713,
+        "area_km2": 8.6852,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3934919056,
+        "prediction": 0.3934919056,
+        "change": 0.0,
+        "valid_fraction": 0.7343526919,
+        "status": "eligible",
+        "rank": 74.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1895212,
+              30.8501456
+            ],
+            [
+              76.189519,
+              30.8499652
+            ],
+            [
+              76.1694428,
+              30.8501481
+            ],
+            [
+              76.1691233,
+              30.8238051
+            ],
+            [
+              76.2004838,
+              30.8235183
+            ],
+            [
+              76.200814,
+              30.8500414
+            ],
+            [
+              76.1895212,
+              30.8501456
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B008",
+        "total_px": 21954,
+        "area_km2": 8.7816,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4221150567,
+        "prediction": 0.4221150567,
+        "change": 0.0,
+        "valid_fraction": 0.7280677781,
+        "status": "eligible",
+        "rank": 100.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2319782,
+              30.8501095
+            ],
+            [
+              76.2319759,
+              30.8499291
+            ],
+            [
+              76.2106452,
+              30.8501303
+            ],
+            [
+              76.2106429,
+              30.8499499
+            ],
+            [
+              76.200814,
+              30.8500414
+            ],
+            [
+              76.2004838,
+              30.8235183
+            ],
+            [
+              76.2318438,
+              30.8232239
+            ],
+            [
+              76.2321873,
+              30.8501075
+            ],
+            [
+              76.2319782,
+              30.8501095
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B009",
+        "total_px": 22154,
+        "area_km2": 8.8616,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3989800721,
+        "prediction": 0.3989800721,
+        "change": 0.0,
+        "valid_fraction": 0.7489843821,
+        "status": "eligible",
+        "rank": 83.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2321873,
+              30.8501075
+            ],
+            [
+              76.2318438,
+              30.8232239
+            ],
+            [
+              76.2500324,
+              30.8230497
+            ],
+            [
+              76.2501026,
+              30.8284625
+            ],
+            [
+              76.2498935,
+              30.8284645
+            ],
+            [
+              76.250104,
+              30.8447028
+            ],
+            [
+              76.2498949,
+              30.8447048
+            ],
+            [
+              76.2499627,
+              30.8499372
+            ],
+            [
+              76.2321873,
+              30.8501075
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B010",
+        "total_px": 12815,
+        "area_km2": 5.126,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3972307158,
+        "prediction": 0.3972307158,
+        "change": 0.0,
+        "valid_fraction": 0.7016777214,
+        "status": "eligible",
+        "rank": 80.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9500064,
+              30.8255972
+            ],
+            [
+              75.9498945,
+              30.8142292
+            ],
+            [
+              75.9501036,
+              30.8142277
+            ],
+            [
+              75.9499491,
+              30.798529
+            ],
+            [
+              75.9806766,
+              30.7983001
+            ],
+            [
+              75.9809516,
+              30.8253666
+            ],
+            [
+              75.9500064,
+              30.8255972
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B011",
+        "total_px": 22113,
+        "area_km2": 8.8452,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3824702851,
+        "prediction": 0.3824702851,
+        "change": 0.0,
+        "valid_fraction": 0.7809885588,
+        "status": "eligible",
+        "rank": 66.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9809516,
+              30.8253666
+            ],
+            [
+              75.9806766,
+              30.7983001
+            ],
+            [
+              76.0120308,
+              30.7980591
+            ],
+            [
+              76.0123145,
+              30.8251253
+            ],
+            [
+              75.9809516,
+              30.8253666
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B012",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.374901659,
+        "prediction": 0.374901659,
+        "change": 0.0,
+        "valid_fraction": 0.8810222222,
+        "status": "eligible",
+        "rank": 59.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0123145,
+              30.8251253
+            ],
+            [
+              76.0120308,
+              30.7980591
+            ],
+            [
+              76.0433845,
+              30.7978105
+            ],
+            [
+              76.0436771,
+              30.8248765
+            ],
+            [
+              76.0123145,
+              30.8251253
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B013",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3893608663,
+        "prediction": 0.3893608663,
+        "change": 0.0,
+        "valid_fraction": 0.7836444444,
+        "status": "eligible",
+        "rank": 69.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0436771,
+              30.8248765
+            ],
+            [
+              76.0433845,
+              30.7978105
+            ],
+            [
+              76.0747379,
+              30.7975543
+            ],
+            [
+              76.0750393,
+              30.82462
+            ],
+            [
+              76.0436771,
+              30.8248765
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B014",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3491544854,
+        "prediction": 0.3491544854,
+        "change": 0.0,
+        "valid_fraction": 0.3480888889,
+        "status": "eligible",
+        "rank": 44.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0750393,
+              30.82462
+            ],
+            [
+              76.0747379,
+              30.7975543
+            ],
+            [
+              76.1060909,
+              30.7972906
+            ],
+            [
+              76.1064011,
+              30.824356
+            ],
+            [
+              76.0750393,
+              30.82462
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B015",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3510284551,
+        "prediction": 0.3510284551,
+        "change": 0.0,
+        "valid_fraction": 0.7628888889,
+        "status": "eligible",
+        "rank": 46.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1064011,
+              30.824356
+            ],
+            [
+              76.1060909,
+              30.7972906
+            ],
+            [
+              76.1374435,
+              30.7970192
+            ],
+            [
+              76.1377624,
+              30.8240843
+            ],
+            [
+              76.1064011,
+              30.824356
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B016",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.379885349,
+        "prediction": 0.379885349,
+        "change": 0.0,
+        "valid_fraction": 0.7057777778,
+        "status": "eligible",
+        "rank": 63.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1377624,
+              30.8240843
+            ],
+            [
+              76.1374435,
+              30.7970192
+            ],
+            [
+              76.1687956,
+              30.7967403
+            ],
+            [
+              76.1691233,
+              30.8238051
+            ],
+            [
+              76.1377624,
+              30.8240843
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B017",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3767968679,
+        "prediction": 0.3767968679,
+        "change": 0.0,
+        "valid_fraction": 0.6733777778,
+        "status": "eligible",
+        "rank": 61.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1691233,
+              30.8238051
+            ],
+            [
+              76.1687956,
+              30.7967403
+            ],
+            [
+              76.2001473,
+              30.7964538
+            ],
+            [
+              76.2004838,
+              30.8235183
+            ],
+            [
+              76.1691233,
+              30.8238051
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B018",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.391086149,
+        "prediction": 0.391086149,
+        "change": 0.0,
+        "valid_fraction": 0.7514222222,
+        "status": "eligible",
+        "rank": 72.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2004838,
+              30.8235183
+            ],
+            [
+              76.2001473,
+              30.7964538
+            ],
+            [
+              76.2314986,
+              30.7961597
+            ],
+            [
+              76.2318438,
+              30.8232239
+            ],
+            [
+              76.2004838,
+              30.8235183
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B019",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3945074542,
+        "prediction": 0.3945074542,
+        "change": 0.0,
+        "valid_fraction": 0.6265777778,
+        "status": "eligible",
+        "rank": 75.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2318438,
+              30.8232239
+            ],
+            [
+              76.2314986,
+              30.7961597
+            ],
+            [
+              76.2501001,
+              30.7959816
+            ],
+            [
+              76.2501024,
+              30.7961621
+            ],
+            [
+              76.2498934,
+              30.7961641
+            ],
+            [
+              76.2501036,
+              30.8124025
+            ],
+            [
+              76.2498946,
+              30.8124045
+            ],
+            [
+              76.2500324,
+              30.8230497
+            ],
+            [
+              76.2318438,
+              30.8232239
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B020",
+        "total_px": 13142,
+        "area_km2": 5.2568,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3854294713,
+        "prediction": 0.3854294713,
+        "change": 0.0,
+        "valid_fraction": 0.6432049916,
+        "status": "eligible",
+        "rank": 68.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9499491,
+              30.798529
+            ],
+            [
+              75.9498941,
+              30.7929351
+            ],
+            [
+              75.9501031,
+              30.7929336
+            ],
+            [
+              75.9498939,
+              30.771641
+            ],
+            [
+              75.9501028,
+              30.7716395
+            ],
+            [
+              75.9501011,
+              30.771459
+            ],
+            [
+              75.980402,
+              30.7712335
+            ],
+            [
+              75.9806766,
+              30.7983001
+            ],
+            [
+              75.9499491,
+              30.798529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B021",
+        "total_px": 21930,
+        "area_km2": 8.772,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.346202305,
+        "prediction": 0.346202305,
+        "change": 0.0,
+        "valid_fraction": 0.8324213406,
+        "status": "eligible",
+        "rank": 43.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9806766,
+              30.7983001
+            ],
+            [
+              75.980402,
+              30.7712335
+            ],
+            [
+              76.0117474,
+              30.7709928
+            ],
+            [
+              76.0120308,
+              30.7980591
+            ],
+            [
+              75.9806766,
+              30.7983001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B022",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3429426179,
+        "prediction": 0.3429426179,
+        "change": 0.0,
+        "valid_fraction": 0.8334222222,
+        "status": "eligible",
+        "rank": 39.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0120308,
+              30.7980591
+            ],
+            [
+              76.0117474,
+              30.7709928
+            ],
+            [
+              76.0430924,
+              30.7707444
+            ],
+            [
+              76.0433845,
+              30.7978105
+            ],
+            [
+              76.0120308,
+              30.7980591
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B023",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4021559659,
+        "prediction": 0.4021559659,
+        "change": 0.0,
+        "valid_fraction": 0.7923555556,
+        "status": "eligible",
+        "rank": 85.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0433845,
+              30.7978105
+            ],
+            [
+              76.0430924,
+              30.7707444
+            ],
+            [
+              76.074437,
+              30.7704885
+            ],
+            [
+              76.0747379,
+              30.7975543
+            ],
+            [
+              76.0433845,
+              30.7978105
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B024",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4014215053,
+        "prediction": 0.4014215053,
+        "change": 0.0,
+        "valid_fraction": 0.6333333333,
+        "status": "eligible",
+        "rank": 84.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0747379,
+              30.7975543
+            ],
+            [
+              76.074437,
+              30.7704885
+            ],
+            [
+              76.1057812,
+              30.770225
+            ],
+            [
+              76.1060909,
+              30.7972906
+            ],
+            [
+              76.0747379,
+              30.7975543
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B025",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3900239017,
+        "prediction": 0.3900239017,
+        "change": 0.0,
+        "valid_fraction": 0.8010222222,
+        "status": "eligible",
+        "rank": 70.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1060909,
+              30.7972906
+            ],
+            [
+              76.1057812,
+              30.770225
+            ],
+            [
+              76.137125,
+              30.769954
+            ],
+            [
+              76.1374435,
+              30.7970192
+            ],
+            [
+              76.1060909,
+              30.7972906
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B026",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3847631713,
+        "prediction": 0.3847631713,
+        "change": 0.0,
+        "valid_fraction": 0.7406666667,
+        "status": "eligible",
+        "rank": 67.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1374435,
+              30.7970192
+            ],
+            [
+              76.137125,
+              30.769954
+            ],
+            [
+              76.1684684,
+              30.7696754
+            ],
+            [
+              76.1687956,
+              30.7967403
+            ],
+            [
+              76.1374435,
+              30.7970192
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B027",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4285042516,
+        "prediction": 0.4285042516,
+        "change": 0.0,
+        "valid_fraction": 0.5610666667,
+        "status": "eligible",
+        "rank": 103.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1687956,
+              30.7967403
+            ],
+            [
+              76.1684684,
+              30.7696754
+            ],
+            [
+              76.1998113,
+              30.7693892
+            ],
+            [
+              76.2001473,
+              30.7964538
+            ],
+            [
+              76.1687956,
+              30.7967403
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B028",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4112592939,
+        "prediction": 0.4112592939,
+        "change": 0.0,
+        "valid_fraction": 0.5361777778,
+        "status": "eligible",
+        "rank": 92.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2001473,
+              30.7964538
+            ],
+            [
+              76.1998113,
+              30.7693892
+            ],
+            [
+              76.2311537,
+              30.7690954
+            ],
+            [
+              76.2314986,
+              30.7961597
+            ],
+            [
+              76.2001473,
+              30.7964538
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B029",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.429201885,
+        "prediction": 0.429201885,
+        "change": 0.0,
+        "valid_fraction": 0.4559555556,
+        "status": "eligible",
+        "rank": 104.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2314986,
+              30.7961597
+            ],
+            [
+              76.2311537,
+              30.7690954
+            ],
+            [
+              76.249959,
+              30.7689155
+            ],
+            [
+              76.2501013,
+              30.7799216
+            ],
+            [
+              76.2498923,
+              30.7799236
+            ],
+            [
+              76.2501001,
+              30.7959816
+            ],
+            [
+              76.2314986,
+              30.7961597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B030",
+        "total_px": 13411,
+        "area_km2": 5.3644,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3965903978,
+        "prediction": 0.3965903978,
+        "change": 0.0,
+        "valid_fraction": 0.5770636045,
+        "status": "eligible",
+        "rank": 79.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9501011,
+              30.771459
+            ],
+            [
+              75.949892,
+              30.7501664
+            ],
+            [
+              75.9501009,
+              30.7501649
+            ],
+            [
+              75.9500442,
+              30.7443906
+            ],
+            [
+              75.9801277,
+              30.7441668
+            ],
+            [
+              75.980402,
+              30.7712335
+            ],
+            [
+              75.9501011,
+              30.771459
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B031",
+        "total_px": 21718,
+        "area_km2": 8.6872,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3331337334,
+        "prediction": 0.3331337334,
+        "change": 0.0,
+        "valid_fraction": 0.8663320748,
+        "status": "eligible",
+        "rank": 28.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.980402,
+              30.7712335
+            ],
+            [
+              75.9801277,
+              30.7441668
+            ],
+            [
+              76.0114643,
+              30.7439263
+            ],
+            [
+              76.0117474,
+              30.7709928
+            ],
+            [
+              75.980402,
+              30.7712335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B032",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3274510788,
+        "prediction": 0.3274510788,
+        "change": 0.0,
+        "valid_fraction": 0.8963555556,
+        "status": "eligible",
+        "rank": 18.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0117474,
+              30.7709928
+            ],
+            [
+              76.0114643,
+              30.7439263
+            ],
+            [
+              76.0428006,
+              30.7436782
+            ],
+            [
+              76.0430924,
+              30.7707444
+            ],
+            [
+              76.0117474,
+              30.7709928
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B033",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3364262893,
+        "prediction": 0.3364262893,
+        "change": 0.0,
+        "valid_fraction": 0.8534666667,
+        "status": "eligible",
+        "rank": 32.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0430924,
+              30.7707444
+            ],
+            [
+              76.0428006,
+              30.7436782
+            ],
+            [
+              76.0741364,
+              30.7434226
+            ],
+            [
+              76.074437,
+              30.7704885
+            ],
+            [
+              76.0430924,
+              30.7707444
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B034",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3443300218,
+        "prediction": 0.3443300218,
+        "change": 0.0,
+        "valid_fraction": 0.8099555556,
+        "status": "eligible",
+        "rank": 41.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.074437,
+              30.7704885
+            ],
+            [
+              76.0741364,
+              30.7434226
+            ],
+            [
+              76.1054719,
+              30.7431594
+            ],
+            [
+              76.1057812,
+              30.770225
+            ],
+            [
+              76.074437,
+              30.7704885
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B035",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3816130581,
+        "prediction": 0.3816130581,
+        "change": 0.0,
+        "valid_fraction": 0.8063111111,
+        "status": "eligible",
+        "rank": 65.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1057812,
+              30.770225
+            ],
+            [
+              76.1054719,
+              30.7431594
+            ],
+            [
+              76.1368069,
+              30.7428886
+            ],
+            [
+              76.137125,
+              30.769954
+            ],
+            [
+              76.1057812,
+              30.770225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B036",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.431467419,
+        "prediction": 0.431467419,
+        "change": 0.0,
+        "valid_fraction": 0.7030222222,
+        "status": "eligible",
+        "rank": 106.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.137125,
+              30.769954
+            ],
+            [
+              76.1368069,
+              30.7428886
+            ],
+            [
+              76.1681415,
+              30.7426103
+            ],
+            [
+              76.1684684,
+              30.7696754
+            ],
+            [
+              76.137125,
+              30.769954
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B037",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4106511083,
+        "prediction": 0.4106511083,
+        "change": 0.0,
+        "valid_fraction": 0.6296888889,
+        "status": "eligible",
+        "rank": 89.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1684684,
+              30.7696754
+            ],
+            [
+              76.1681415,
+              30.7426103
+            ],
+            [
+              76.1994757,
+              30.7423244
+            ],
+            [
+              76.1998113,
+              30.7693892
+            ],
+            [
+              76.1684684,
+              30.7696754
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B038",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4361391348,
+        "prediction": 0.4361391348,
+        "change": 0.0,
+        "valid_fraction": 0.5793333333,
+        "status": "eligible",
+        "rank": 110.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1998113,
+              30.7693892
+            ],
+            [
+              76.1994757,
+              30.7423244
+            ],
+            [
+              76.2308094,
+              30.742031
+            ],
+            [
+              76.2311537,
+              30.7690954
+            ],
+            [
+              76.1998113,
+              30.7693892
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B039",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4507527468,
+        "prediction": 0.4507527468,
+        "change": 0.0,
+        "valid_fraction": 0.4968888889,
+        "status": "eligible",
+        "rank": 114.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2311537,
+              30.7690954
+            ],
+            [
+              76.2308094,
+              30.742031
+            ],
+            [
+              76.2500272,
+              30.7418472
+            ],
+            [
+              76.2501017,
+              30.7476209
+            ],
+            [
+              76.2498928,
+              30.747623
+            ],
+            [
+              76.2501003,
+              30.7636811
+            ],
+            [
+              76.2498914,
+              30.7636831
+            ],
+            [
+              76.249959,
+              30.7689155
+            ],
+            [
+              76.2311537,
+              30.7690954
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B040",
+        "total_px": 13653,
+        "area_km2": 5.4612,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4218474916,
+        "prediction": 0.4218474916,
+        "change": 0.0,
+        "valid_fraction": 0.4745477185,
+        "status": "eligible",
+        "rank": 99.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9500442,
+              30.7443906
+            ],
+            [
+              75.9498919,
+              30.7288721
+            ],
+            [
+              75.9501008,
+              30.7288706
+            ],
+            [
+              75.9499876,
+              30.717322
+            ],
+            [
+              75.9798538,
+              30.7171
+            ],
+            [
+              75.9801277,
+              30.7441668
+            ],
+            [
+              75.9500442,
+              30.7443906
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B041",
+        "total_px": 21536,
+        "area_km2": 8.6144,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3209136568,
+        "prediction": 0.3209136568,
+        "change": 0.0,
+        "valid_fraction": 0.3990527489,
+        "status": "eligible",
+        "rank": 15.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9801277,
+              30.7441668
+            ],
+            [
+              75.9798538,
+              30.7171
+            ],
+            [
+              76.0111817,
+              30.7168597
+            ],
+            [
+              76.0114643,
+              30.7439263
+            ],
+            [
+              75.9801277,
+              30.7441668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B042",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3294572225,
+        "prediction": 0.3294572225,
+        "change": 0.0,
+        "valid_fraction": 0.3906222222,
+        "status": "eligible",
+        "rank": 21.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0114643,
+              30.7439263
+            ],
+            [
+              76.0111817,
+              30.7168597
+            ],
+            [
+              76.0425092,
+              30.7166119
+            ],
+            [
+              76.0428006,
+              30.7436782
+            ],
+            [
+              76.0114643,
+              30.7439263
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B043",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3370211244,
+        "prediction": 0.3370211244,
+        "change": 0.0,
+        "valid_fraction": 0.3636444444,
+        "status": "eligible",
+        "rank": 33.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0428006,
+              30.7436782
+            ],
+            [
+              76.0425092,
+              30.7166119
+            ],
+            [
+              76.0738363,
+              30.7163566
+            ],
+            [
+              76.0741364,
+              30.7434226
+            ],
+            [
+              76.0428006,
+              30.7436782
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B044",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3759216464,
+        "prediction": 0.3759216464,
+        "change": 0.0,
+        "valid_fraction": 0.7790666667,
+        "status": "eligible",
+        "rank": 60.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0741364,
+              30.7434226
+            ],
+            [
+              76.0738363,
+              30.7163566
+            ],
+            [
+              76.105163,
+              30.7160936
+            ],
+            [
+              76.1054719,
+              30.7431594
+            ],
+            [
+              76.0741364,
+              30.7434226
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B045",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3902268946,
+        "prediction": 0.3902268946,
+        "change": 0.0,
+        "valid_fraction": 0.6800888889,
+        "status": "eligible",
+        "rank": 71.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1054719,
+              30.7431594
+            ],
+            [
+              76.105163,
+              30.7160936
+            ],
+            [
+              76.1364893,
+              30.7158232
+            ],
+            [
+              76.1368069,
+              30.7428886
+            ],
+            [
+              76.1054719,
+              30.7431594
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B046",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4110917174,
+        "prediction": 0.4110917174,
+        "change": 0.0,
+        "valid_fraction": 0.6000888889,
+        "status": "eligible",
+        "rank": 91.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1368069,
+              30.7428886
+            ],
+            [
+              76.1364893,
+              30.7158232
+            ],
+            [
+              76.1678151,
+              30.7155451
+            ],
+            [
+              76.1681415,
+              30.7426103
+            ],
+            [
+              76.1368069,
+              30.7428886
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B047",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4245985273,
+        "prediction": 0.4245985273,
+        "change": 0.0,
+        "valid_fraction": 0.6268888889,
+        "status": "eligible",
+        "rank": 102.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1681415,
+              30.7426103
+            ],
+            [
+              76.1678151,
+              30.7155451
+            ],
+            [
+              76.1991405,
+              30.7152596
+            ],
+            [
+              76.1994757,
+              30.7423244
+            ],
+            [
+              76.1681415,
+              30.7426103
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B048",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.42047613,
+        "prediction": 0.42047613,
+        "change": 0.0,
+        "valid_fraction": 0.6724,
+        "status": "eligible",
+        "rank": 98.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1994757,
+              30.7423244
+            ],
+            [
+              76.1991405,
+              30.7152596
+            ],
+            [
+              76.2304655,
+              30.7149664
+            ],
+            [
+              76.2308094,
+              30.742031
+            ],
+            [
+              76.1994757,
+              30.7423244
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B049",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4324466366,
+        "prediction": 0.4324466366,
+        "change": 0.0,
+        "valid_fraction": 0.6726222222,
+        "status": "eligible",
+        "rank": 108.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2308094,
+              30.742031
+            ],
+            [
+              76.2304655,
+              30.7149664
+            ],
+            [
+              76.2500956,
+              30.7147789
+            ],
+            [
+              76.2501002,
+              30.7151397
+            ],
+            [
+              76.2498914,
+              30.7151417
+            ],
+            [
+              76.2501009,
+              30.7313803
+            ],
+            [
+              76.2498921,
+              30.7313824
+            ],
+            [
+              76.2500272,
+              30.7418472
+            ],
+            [
+              76.2308094,
+              30.742031
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B050",
+        "total_px": 13894,
+        "area_km2": 5.5576,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3973659296,
+        "prediction": 0.3973659296,
+        "change": 0.0,
+        "valid_fraction": 0.5951489852,
+        "status": "eligible",
+        "rank": 81.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9499876,
+              30.717322
+            ],
+            [
+              75.9498921,
+              30.7075778
+            ],
+            [
+              75.9501009,
+              30.7075763
+            ],
+            [
+              75.9499312,
+              30.6902533
+            ],
+            [
+              75.9795803,
+              30.690033
+            ],
+            [
+              75.9798538,
+              30.7171
+            ],
+            [
+              75.9499876,
+              30.717322
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B051",
+        "total_px": 21354,
+        "area_km2": 8.5416,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3091579385,
+        "prediction": 0.3091579385,
+        "change": 0.0,
+        "valid_fraction": 0.9022665543,
+        "status": "eligible",
+        "rank": 10.0,
+        "shortlisted": true,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9798538,
+              30.7171
+            ],
+            [
+              75.9795803,
+              30.690033
+            ],
+            [
+              76.0108995,
+              30.689793
+            ],
+            [
+              76.0111817,
+              30.7168597
+            ],
+            [
+              75.9798538,
+              30.7171
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B052",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.29581048,
+        "prediction": 0.29581048,
+        "change": 0.0,
+        "valid_fraction": 0.9376444444,
+        "status": "eligible",
+        "rank": 5.0,
+        "shortlisted": true,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0111817,
+              30.7168597
+            ],
+            [
+              76.0108995,
+              30.689793
+            ],
+            [
+              76.0422182,
+              30.6895455
+            ],
+            [
+              76.0425092,
+              30.7166119
+            ],
+            [
+              76.0111817,
+              30.7168597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B053",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3399410623,
+        "prediction": 0.3399410623,
+        "change": 0.0,
+        "valid_fraction": 0.8347555556,
+        "status": "eligible",
+        "rank": 36.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0425092,
+              30.7166119
+            ],
+            [
+              76.0422182,
+              30.6895455
+            ],
+            [
+              76.0735366,
+              30.6892904
+            ],
+            [
+              76.0738363,
+              30.7163566
+            ],
+            [
+              76.0425092,
+              30.7166119
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B054",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3381429512,
+        "prediction": 0.3381429512,
+        "change": 0.0,
+        "valid_fraction": 0.8043555556,
+        "status": "eligible",
+        "rank": 34.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0738363,
+              30.7163566
+            ],
+            [
+              76.0735366,
+              30.6892904
+            ],
+            [
+              76.1048545,
+              30.6890278
+            ],
+            [
+              76.105163,
+              30.7160936
+            ],
+            [
+              76.0738363,
+              30.7163566
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B055",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3682497659,
+        "prediction": 0.3682497659,
+        "change": 0.0,
+        "valid_fraction": 0.7340888889,
+        "status": "eligible",
+        "rank": 55.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.105163,
+              30.7160936
+            ],
+            [
+              76.1048545,
+              30.6890278
+            ],
+            [
+              76.1361721,
+              30.6887576
+            ],
+            [
+              76.1364893,
+              30.7158232
+            ],
+            [
+              76.105163,
+              30.7160936
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B056",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4315185883,
+        "prediction": 0.4315185883,
+        "change": 0.0,
+        "valid_fraction": 0.5651555556,
+        "status": "eligible",
+        "rank": 107.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1364893,
+              30.7158232
+            ],
+            [
+              76.1361721,
+              30.6887576
+            ],
+            [
+              76.1674892,
+              30.6884799
+            ],
+            [
+              76.1678151,
+              30.7155451
+            ],
+            [
+              76.1364893,
+              30.7158232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B057",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3916132337,
+        "prediction": 0.3916132337,
+        "change": 0.0,
+        "valid_fraction": 0.6950222222,
+        "status": "eligible",
+        "rank": 73.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1678151,
+              30.7155451
+            ],
+            [
+              76.1674892,
+              30.6884799
+            ],
+            [
+              76.1988059,
+              30.6881946
+            ],
+            [
+              76.1991405,
+              30.7152596
+            ],
+            [
+              76.1678151,
+              30.7155451
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B058",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4179658494,
+        "prediction": 0.4179658494,
+        "change": 0.0,
+        "valid_fraction": 0.7504,
+        "status": "eligible",
+        "rank": 96.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1991405,
+              30.7152596
+            ],
+            [
+              76.1988059,
+              30.6881946
+            ],
+            [
+              76.2301221,
+              30.6879017
+            ],
+            [
+              76.2304655,
+              30.7149664
+            ],
+            [
+              76.1991405,
+              30.7152596
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B059",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3959694956,
+        "prediction": 0.3959694956,
+        "change": 0.0,
+        "valid_fraction": 0.8530222222,
+        "status": "eligible",
+        "rank": 77.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2304655,
+              30.7149664
+            ],
+            [
+              76.2301221,
+              30.6879017
+            ],
+            [
+              76.2499554,
+              30.6877124
+            ],
+            [
+              76.2500996,
+              30.698899
+            ],
+            [
+              76.2498908,
+              30.6989011
+            ],
+            [
+              76.2500956,
+              30.7147789
+            ],
+            [
+              76.2304655,
+              30.7149664
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B060",
+        "total_px": 14162,
+        "area_km2": 5.6648,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4228584591,
+        "prediction": 0.4228584591,
+        "change": 0.0,
+        "valid_fraction": 0.7485524643,
+        "status": "eligible",
+        "rank": 101.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9499312,
+              30.6902533
+            ],
+            [
+              75.9498923,
+              30.6862834
+            ],
+            [
+              75.9501011,
+              30.6862819
+            ],
+            [
+              75.9498927,
+              30.6649889
+            ],
+            [
+              75.9501015,
+              30.6649874
+            ],
+            [
+              75.9500838,
+              30.6631829
+            ],
+            [
+              75.9793072,
+              30.662966
+            ],
+            [
+              75.9795803,
+              30.690033
+            ],
+            [
+              75.9499312,
+              30.6902533
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B061",
+        "total_px": 21162,
+        "area_km2": 8.4648,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3401419455,
+        "prediction": 0.3401419455,
+        "change": 0.0,
+        "valid_fraction": 0.8364993857,
+        "status": "eligible",
+        "rank": 38.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9795803,
+              30.690033
+            ],
+            [
+              75.9793072,
+              30.662966
+            ],
+            [
+              76.0106176,
+              30.6627262
+            ],
+            [
+              76.0108995,
+              30.689793
+            ],
+            [
+              75.9795803,
+              30.690033
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B062",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3221878144,
+        "prediction": 0.3221878144,
+        "change": 0.0,
+        "valid_fraction": 0.8640888889,
+        "status": "eligible",
+        "rank": 16.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0108995,
+              30.689793
+            ],
+            [
+              76.0106176,
+              30.6627262
+            ],
+            [
+              76.0419276,
+              30.662479
+            ],
+            [
+              76.0422182,
+              30.6895455
+            ],
+            [
+              76.0108995,
+              30.689793
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B063",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3453624164,
+        "prediction": 0.3453624164,
+        "change": 0.0,
+        "valid_fraction": 0.7962666667,
+        "status": "eligible",
+        "rank": 42.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0422182,
+              30.6895455
+            ],
+            [
+              76.0419276,
+              30.662479
+            ],
+            [
+              76.0732373,
+              30.6622241
+            ],
+            [
+              76.0735366,
+              30.6892904
+            ],
+            [
+              76.0422182,
+              30.6895455
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B064",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3575455458,
+        "prediction": 0.3575455458,
+        "change": 0.0,
+        "valid_fraction": 0.7612888889,
+        "status": "eligible",
+        "rank": 49.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0735366,
+              30.6892904
+            ],
+            [
+              76.0732373,
+              30.6622241
+            ],
+            [
+              76.1045465,
+              30.6619618
+            ],
+            [
+              76.1048545,
+              30.6890278
+            ],
+            [
+              76.0735366,
+              30.6892904
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B065",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3354278621,
+        "prediction": 0.3354278621,
+        "change": 0.0,
+        "valid_fraction": 0.8630222222,
+        "status": "eligible",
+        "rank": 31.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1048545,
+              30.6890278
+            ],
+            [
+              76.1045465,
+              30.6619618
+            ],
+            [
+              76.1358553,
+              30.6616919
+            ],
+            [
+              76.1361721,
+              30.6887576
+            ],
+            [
+              76.1048545,
+              30.6890278
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B066",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.36273096,
+        "prediction": 0.36273096,
+        "change": 0.0,
+        "valid_fraction": 0.8090222222,
+        "status": "eligible",
+        "rank": 52.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1361721,
+              30.6887576
+            ],
+            [
+              76.1358553,
+              30.6616919
+            ],
+            [
+              76.1671637,
+              30.6614145
+            ],
+            [
+              76.1674892,
+              30.6884799
+            ],
+            [
+              76.1361721,
+              30.6887576
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B067",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4027122056,
+        "prediction": 0.4027122056,
+        "change": 0.0,
+        "valid_fraction": 0.6696444444,
+        "status": "eligible",
+        "rank": 86.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1674892,
+              30.6884799
+            ],
+            [
+              76.1671637,
+              30.6614145
+            ],
+            [
+              76.1984716,
+              30.6611295
+            ],
+            [
+              76.1988059,
+              30.6881946
+            ],
+            [
+              76.1674892,
+              30.6884799
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B068",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3947199348,
+        "prediction": 0.3947199348,
+        "change": 0.0,
+        "valid_fraction": 0.7239555556,
+        "status": "eligible",
+        "rank": 76.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1988059,
+              30.6881946
+            ],
+            [
+              76.1984716,
+              30.6611295
+            ],
+            [
+              76.2297791,
+              30.660837
+            ],
+            [
+              76.2301221,
+              30.6879017
+            ],
+            [
+              76.1988059,
+              30.6881946
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B069",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.396546229,
+        "prediction": 0.396546229,
+        "change": 0.0,
+        "valid_fraction": 0.7856,
+        "status": "eligible",
+        "rank": 78.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2301221,
+              30.6879017
+            ],
+            [
+              76.2297791,
+              30.660837
+            ],
+            [
+              76.2500244,
+              30.6606438
+            ],
+            [
+              76.250101,
+              30.666598
+            ],
+            [
+              76.2498923,
+              30.6666
+            ],
+            [
+              76.2500991,
+              30.6826583
+            ],
+            [
+              76.2498903,
+              30.6826603
+            ],
+            [
+              76.2499554,
+              30.6877124
+            ],
+            [
+              76.2301221,
+              30.6879017
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B070",
+        "total_px": 14405,
+        "area_km2": 5.762,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4109262896,
+        "prediction": 0.4109262896,
+        "change": 0.0,
+        "valid_fraction": 0.6584519264,
+        "status": "eligible",
+        "rank": 90.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9500838,
+              30.6631829
+            ],
+            [
+              75.9498932,
+              30.6436944
+            ],
+            [
+              75.9501019,
+              30.6436929
+            ],
+            [
+              75.9500279,
+              30.636114
+            ],
+            [
+              75.9790344,
+              30.6358988
+            ],
+            [
+              75.9793072,
+              30.662966
+            ],
+            [
+              75.9500838,
+              30.6631829
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B071",
+        "total_px": 20958,
+        "area_km2": 8.3832,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3494600752,
+        "prediction": 0.3494600752,
+        "change": 0.0,
+        "valid_fraction": 0.7754079588,
+        "status": "eligible",
+        "rank": 45.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9793072,
+              30.662966
+            ],
+            [
+              75.9790344,
+              30.6358988
+            ],
+            [
+              76.0103361,
+              30.6356593
+            ],
+            [
+              76.0106176,
+              30.6627262
+            ],
+            [
+              75.9793072,
+              30.662966
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B072",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3329594179,
+        "prediction": 0.3329594179,
+        "change": 0.0,
+        "valid_fraction": 0.7931555556,
+        "status": "eligible",
+        "rank": 27.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0106176,
+              30.6627262
+            ],
+            [
+              76.0103361,
+              30.6356593
+            ],
+            [
+              76.0416374,
+              30.6354123
+            ],
+            [
+              76.0419276,
+              30.662479
+            ],
+            [
+              76.0106176,
+              30.6627262
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B073",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3400962346,
+        "prediction": 0.3400962346,
+        "change": 0.0,
+        "valid_fraction": 0.6784,
+        "status": "eligible",
+        "rank": 37.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0419276,
+              30.662479
+            ],
+            [
+              76.0416374,
+              30.6354123
+            ],
+            [
+              76.0729383,
+              30.6351578
+            ],
+            [
+              76.0732373,
+              30.6622241
+            ],
+            [
+              76.0419276,
+              30.662479
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B074",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3111461745,
+        "prediction": 0.3111461745,
+        "change": 0.0,
+        "valid_fraction": 0.8127111111,
+        "status": "eligible",
+        "rank": 11.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0732373,
+              30.6622241
+            ],
+            [
+              76.0729383,
+              30.6351578
+            ],
+            [
+              76.1042388,
+              30.6348957
+            ],
+            [
+              76.1045465,
+              30.6619618
+            ],
+            [
+              76.0732373,
+              30.6622241
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B075",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.318174836,
+        "prediction": 0.318174836,
+        "change": 0.0,
+        "valid_fraction": 0.8443555556,
+        "status": "eligible",
+        "rank": 13.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1045465,
+              30.6619618
+            ],
+            [
+              76.1042388,
+              30.6348957
+            ],
+            [
+              76.1355389,
+              30.6346261
+            ],
+            [
+              76.1358553,
+              30.6616919
+            ],
+            [
+              76.1045465,
+              30.6619618
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B076",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3319978916,
+        "prediction": 0.3319978916,
+        "change": 0.0,
+        "valid_fraction": 0.6614222222,
+        "status": "eligible",
+        "rank": 26.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1358553,
+              30.6616919
+            ],
+            [
+              76.1355389,
+              30.6346261
+            ],
+            [
+              76.1668386,
+              30.6343489
+            ],
+            [
+              76.1671637,
+              30.6614145
+            ],
+            [
+              76.1358553,
+              30.6616919
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B077",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4113110403,
+        "prediction": 0.4113110403,
+        "change": 0.0,
+        "valid_fraction": 0.3464444444,
+        "status": "eligible",
+        "rank": 93.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1671637,
+              30.6614145
+            ],
+            [
+              76.1668386,
+              30.6343489
+            ],
+            [
+              76.1981378,
+              30.6340643
+            ],
+            [
+              76.1984716,
+              30.6611295
+            ],
+            [
+              76.1671637,
+              30.6614145
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B078",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4049275788,
+        "prediction": 0.4049275788,
+        "change": 0.0,
+        "valid_fraction": 0.6127111111,
+        "status": "eligible",
+        "rank": 88.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1984716,
+              30.6611295
+            ],
+            [
+              76.1981378,
+              30.6340643
+            ],
+            [
+              76.2294366,
+              30.6337721
+            ],
+            [
+              76.2297791,
+              30.660837
+            ],
+            [
+              76.1984716,
+              30.6611295
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B079",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3785473303,
+        "prediction": 0.3785473303,
+        "change": 0.0,
+        "valid_fraction": 0.4637777778,
+        "status": "eligible",
+        "rank": 62.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2297791,
+              30.660837
+            ],
+            [
+              76.2294366,
+              30.6337721
+            ],
+            [
+              76.2500936,
+              30.6335751
+            ],
+            [
+              76.2501005,
+              30.6341164
+            ],
+            [
+              76.2498919,
+              30.6341184
+            ],
+            [
+              76.2501007,
+              30.6503572
+            ],
+            [
+              76.249892,
+              30.6503592
+            ],
+            [
+              76.2500244,
+              30.6606438
+            ],
+            [
+              76.2297791,
+              30.660837
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B080",
+        "total_px": 14646,
+        "area_km2": 5.8584,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4831035912,
+        "prediction": 0.4831035912,
+        "change": 0.0,
+        "valid_fraction": 0.3356547863,
+        "status": "eligible",
+        "rank": 118.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9500279,
+              30.636114
+            ],
+            [
+              75.9498939,
+              30.6223998
+            ],
+            [
+              75.9501025,
+              30.6223983
+            ],
+            [
+              75.9499721,
+              30.6090449
+            ],
+            [
+              75.978762,
+              30.6088315
+            ],
+            [
+              75.9790344,
+              30.6358988
+            ],
+            [
+              75.9500279,
+              30.636114
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B081",
+        "total_px": 20776,
+        "area_km2": 8.3104,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3294742754,
+        "prediction": 0.3294742754,
+        "change": 0.0,
+        "valid_fraction": 0.8730747016,
+        "status": "eligible",
+        "rank": 22.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9790344,
+              30.6358988
+            ],
+            [
+              75.978762,
+              30.6088315
+            ],
+            [
+              76.010055,
+              30.6085923
+            ],
+            [
+              76.0103361,
+              30.6356593
+            ],
+            [
+              75.9790344,
+              30.6358988
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B082",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3297267026,
+        "prediction": 0.3297267026,
+        "change": 0.0,
+        "valid_fraction": 0.7575111111,
+        "status": "eligible",
+        "rank": 23.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0103361,
+              30.6356593
+            ],
+            [
+              76.010055,
+              30.6085923
+            ],
+            [
+              76.0413476,
+              30.6083455
+            ],
+            [
+              76.0416374,
+              30.6354123
+            ],
+            [
+              76.0103361,
+              30.6356593
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B083",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.2956846852,
+        "prediction": 0.2956846852,
+        "change": 0.0,
+        "valid_fraction": 0.7739555556,
+        "status": "eligible",
+        "rank": 4.0,
+        "shortlisted": true,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0416374,
+              30.6354123
+            ],
+            [
+              76.0413476,
+              30.6083455
+            ],
+            [
+              76.0726398,
+              30.6080913
+            ],
+            [
+              76.0729383,
+              30.6351578
+            ],
+            [
+              76.0416374,
+              30.6354123
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B084",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.319522218,
+        "prediction": 0.319522218,
+        "change": 0.0,
+        "valid_fraction": 0.7672,
+        "status": "eligible",
+        "rank": 14.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0729383,
+              30.6351578
+            ],
+            [
+              76.0726398,
+              30.6080913
+            ],
+            [
+              76.1039316,
+              30.6078295
+            ],
+            [
+              76.1042388,
+              30.6348957
+            ],
+            [
+              76.0729383,
+              30.6351578
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B085",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3306095144,
+        "prediction": 0.3306095144,
+        "change": 0.0,
+        "valid_fraction": 0.8089777778,
+        "status": "eligible",
+        "rank": 24.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1042388,
+              30.6348957
+            ],
+            [
+              76.1039316,
+              30.6078295
+            ],
+            [
+              76.135223,
+              30.6075602
+            ],
+            [
+              76.1355389,
+              30.6346261
+            ],
+            [
+              76.1042388,
+              30.6348957
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B086",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3743042798,
+        "prediction": 0.3743042798,
+        "change": 0.0,
+        "valid_fraction": 0.6914222222,
+        "status": "eligible",
+        "rank": 58.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1355389,
+              30.6346261
+            ],
+            [
+              76.135223,
+              30.6075602
+            ],
+            [
+              76.166514,
+              30.6072833
+            ],
+            [
+              76.1668386,
+              30.6343489
+            ],
+            [
+              76.1355389,
+              30.6346261
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B087",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4371306245,
+        "prediction": 0.4371306245,
+        "change": 0.0,
+        "valid_fraction": 0.4947111111,
+        "status": "eligible",
+        "rank": 111.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1668386,
+              30.6343489
+            ],
+            [
+              76.166514,
+              30.6072833
+            ],
+            [
+              76.1978045,
+              30.606999
+            ],
+            [
+              76.1981378,
+              30.6340643
+            ],
+            [
+              76.1668386,
+              30.6343489
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B088",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4389410969,
+        "prediction": 0.4389410969,
+        "change": 0.0,
+        "valid_fraction": 0.4419111111,
+        "status": "eligible",
+        "rank": 112.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1981378,
+              30.6340643
+            ],
+            [
+              76.1978045,
+              30.606999
+            ],
+            [
+              76.2290946,
+              30.6067071
+            ],
+            [
+              76.2294366,
+              30.6337721
+            ],
+            [
+              76.1981378,
+              30.6340643
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B089",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4571403446,
+        "prediction": 0.4571403446,
+        "change": 0.0,
+        "valid_fraction": 0.6048,
+        "status": "eligible",
+        "rank": 116.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2294366,
+              30.6337721
+            ],
+            [
+              76.2290946,
+              30.6067071
+            ],
+            [
+              76.2499544,
+              30.6065083
+            ],
+            [
+              76.2501004,
+              30.6178755
+            ],
+            [
+              76.2498918,
+              30.6178775
+            ],
+            [
+              76.2500936,
+              30.6335751
+            ],
+            [
+              76.2294366,
+              30.6337721
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B090",
+        "total_px": 14913,
+        "area_km2": 5.9652,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4426380727,
+        "prediction": 0.4426380727,
+        "change": 0.0,
+        "valid_fraction": 0.5248440958,
+        "status": "eligible",
+        "rank": 113.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9499721,
+              30.6090449
+            ],
+            [
+              75.9498947,
+              30.6011051
+            ],
+            [
+              75.9501033,
+              30.6011036
+            ],
+            [
+              75.9499167,
+              30.5819758
+            ],
+            [
+              75.97849,
+              30.5817641
+            ],
+            [
+              75.978762,
+              30.6088315
+            ],
+            [
+              75.9499721,
+              30.6090449
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B091",
+        "total_px": 20594,
+        "area_km2": 8.2376,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3075435269,
+        "prediction": 0.3075435269,
+        "change": 0.0,
+        "valid_fraction": 0.8898708362,
+        "status": "eligible",
+        "rank": 9.0,
+        "shortlisted": true,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.978762,
+              30.6088315
+            ],
+            [
+              75.97849,
+              30.5817641
+            ],
+            [
+              76.0097743,
+              30.5815251
+            ],
+            [
+              76.010055,
+              30.6085923
+            ],
+            [
+              75.978762,
+              30.6088315
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B092",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.2895458645,
+        "prediction": 0.2895458645,
+        "change": 0.0,
+        "valid_fraction": 0.8173333333,
+        "status": "eligible",
+        "rank": 2.0,
+        "shortlisted": true,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.010055,
+              30.6085923
+            ],
+            [
+              76.0097743,
+              30.5815251
+            ],
+            [
+              76.0410582,
+              30.5812787
+            ],
+            [
+              76.0413476,
+              30.6083455
+            ],
+            [
+              76.010055,
+              30.6085923
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B093",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.2940706479,
+        "prediction": 0.2940706479,
+        "change": 0.0,
+        "valid_fraction": 0.8746666667,
+        "status": "eligible",
+        "rank": 3.0,
+        "shortlisted": true,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0413476,
+              30.6083455
+            ],
+            [
+              76.0410582,
+              30.5812787
+            ],
+            [
+              76.0723417,
+              30.5810247
+            ],
+            [
+              76.0726398,
+              30.6080913
+            ],
+            [
+              76.0413476,
+              30.6083455
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B094",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3396009803,
+        "prediction": 0.3396009803,
+        "change": 0.0,
+        "valid_fraction": 0.7281333333,
+        "status": "eligible",
+        "rank": 35.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0726398,
+              30.6080913
+            ],
+            [
+              76.0723417,
+              30.5810247
+            ],
+            [
+              76.1036248,
+              30.5807631
+            ],
+            [
+              76.1039316,
+              30.6078295
+            ],
+            [
+              76.0726398,
+              30.6080913
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B095",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3347930797,
+        "prediction": 0.3347930797,
+        "change": 0.0,
+        "valid_fraction": 0.8212,
+        "status": "eligible",
+        "rank": 30.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1039316,
+              30.6078295
+            ],
+            [
+              76.1036248,
+              30.5807631
+            ],
+            [
+              76.1349075,
+              30.5804941
+            ],
+            [
+              76.135223,
+              30.6075602
+            ],
+            [
+              76.1039316,
+              30.6078295
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B096",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3317011978,
+        "prediction": 0.3317011978,
+        "change": 0.0,
+        "valid_fraction": 0.6654666667,
+        "status": "eligible",
+        "rank": 25.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.135223,
+              30.6075602
+            ],
+            [
+              76.1349075,
+              30.5804941
+            ],
+            [
+              76.1661898,
+              30.5802176
+            ],
+            [
+              76.166514,
+              30.6072833
+            ],
+            [
+              76.135223,
+              30.6075602
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B097",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4194606582,
+        "prediction": 0.4194606582,
+        "change": 0.0,
+        "valid_fraction": 0.5267555556,
+        "status": "eligible",
+        "rank": 97.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.166514,
+              30.6072833
+            ],
+            [
+              76.1661898,
+              30.5802176
+            ],
+            [
+              76.1974716,
+              30.5799335
+            ],
+            [
+              76.1978045,
+              30.606999
+            ],
+            [
+              76.166514,
+              30.6072833
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B098",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4897163072,
+        "prediction": 0.4897163072,
+        "change": 0.0,
+        "valid_fraction": 0.3211555556,
+        "status": "eligible",
+        "rank": 119.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1978045,
+              30.606999
+            ],
+            [
+              76.1974716,
+              30.5799335
+            ],
+            [
+              76.228753,
+              30.5796419
+            ],
+            [
+              76.2290946,
+              30.6067071
+            ],
+            [
+              76.1978045,
+              30.606999
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B099",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4670590997,
+        "prediction": 0.4670590997,
+        "change": 0.0,
+        "valid_fraction": 0.498,
+        "status": "eligible",
+        "rank": 117.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2290946,
+              30.6067071
+            ],
+            [
+              76.228753,
+              30.5796419
+            ],
+            [
+              76.2500241,
+              30.5794394
+            ],
+            [
+              76.2501028,
+              30.5855741
+            ],
+            [
+              76.2498943,
+              30.5855761
+            ],
+            [
+              76.2501027,
+              30.601815
+            ],
+            [
+              76.2498941,
+              30.601817
+            ],
+            [
+              76.2499544,
+              30.6065083
+            ],
+            [
+              76.2290946,
+              30.6067071
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B100",
+        "total_px": 15158,
+        "area_km2": 6.0632,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.451378856,
+        "prediction": 0.451378856,
+        "change": 0.0,
+        "valid_fraction": 0.5203852751,
+        "status": "eligible",
+        "rank": 115.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9499167,
+              30.5819758
+            ],
+            [
+              75.9498938,
+              30.5796299
+            ],
+            [
+              75.9501024,
+              30.5796284
+            ],
+            [
+              75.9498948,
+              30.5583351
+            ],
+            [
+              75.9501034,
+              30.5583336
+            ],
+            [
+              75.95007,
+              30.554905
+            ],
+            [
+              75.9782183,
+              30.5546966
+            ],
+            [
+              75.97849,
+              30.5817641
+            ],
+            [
+              75.9499167,
+              30.5819758
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B101",
+        "total_px": 20394,
+        "area_km2": 8.1576,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3066738729,
+        "prediction": 0.3066738729,
+        "change": 0.0,
+        "valid_fraction": 0.8932529175,
+        "status": "eligible",
+        "rank": 8.0,
+        "shortlisted": true,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.97849,
+              30.5817641
+            ],
+            [
+              75.9782183,
+              30.5546966
+            ],
+            [
+              76.0094939,
+              30.5544579
+            ],
+            [
+              76.0097743,
+              30.5815251
+            ],
+            [
+              75.97849,
+              30.5817641
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B102",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3115873419,
+        "prediction": 0.3115873419,
+        "change": 0.0,
+        "valid_fraction": 0.8977333333,
+        "status": "eligible",
+        "rank": 12.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0097743,
+              30.5815251
+            ],
+            [
+              76.0094939,
+              30.5544579
+            ],
+            [
+              76.0407692,
+              30.5542117
+            ],
+            [
+              76.0410582,
+              30.5812787
+            ],
+            [
+              76.0097743,
+              30.5815251
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B103",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3041960127,
+        "prediction": 0.3041960127,
+        "change": 0.0,
+        "valid_fraction": 0.8767111111,
+        "status": "eligible",
+        "rank": 7.0,
+        "shortlisted": true,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0410582,
+              30.5812787
+            ],
+            [
+              76.0407692,
+              30.5542117
+            ],
+            [
+              76.072044,
+              30.5539579
+            ],
+            [
+              76.0723417,
+              30.5810247
+            ],
+            [
+              76.0410582,
+              30.5812787
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B104",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3231681216,
+        "prediction": 0.3231681216,
+        "change": 0.0,
+        "valid_fraction": 0.8089777778,
+        "status": "eligible",
+        "rank": 17.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0723417,
+              30.5810247
+            ],
+            [
+              76.072044,
+              30.5539579
+            ],
+            [
+              76.1033184,
+              30.5536967
+            ],
+            [
+              76.1036248,
+              30.5807631
+            ],
+            [
+              76.0723417,
+              30.5810247
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B105",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3433976404,
+        "prediction": 0.3433976404,
+        "change": 0.0,
+        "valid_fraction": 0.7977333333,
+        "status": "eligible",
+        "rank": 40.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1036248,
+              30.5807631
+            ],
+            [
+              76.1033184,
+              30.5536967
+            ],
+            [
+              76.1345925,
+              30.553428
+            ],
+            [
+              76.1349075,
+              30.5804941
+            ],
+            [
+              76.1036248,
+              30.5807631
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B106",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3736916187,
+        "prediction": 0.3736916187,
+        "change": 0.0,
+        "valid_fraction": 0.7168,
+        "status": "eligible",
+        "rank": 57.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1349075,
+              30.5804941
+            ],
+            [
+              76.1345925,
+              30.553428
+            ],
+            [
+              76.165866,
+              30.5531517
+            ],
+            [
+              76.1661898,
+              30.5802176
+            ],
+            [
+              76.1349075,
+              30.5804941
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B107",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4138887829,
+        "prediction": 0.4138887829,
+        "change": 0.0,
+        "valid_fraction": 0.5352444444,
+        "status": "eligible",
+        "rank": 94.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1661898,
+              30.5802176
+            ],
+            [
+              76.165866,
+              30.5531517
+            ],
+            [
+              76.1971392,
+              30.552868
+            ],
+            [
+              76.1974716,
+              30.5799335
+            ],
+            [
+              76.1661898,
+              30.5802176
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B108",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4305358028,
+        "prediction": 0.4305358028,
+        "change": 0.0,
+        "valid_fraction": 0.4636444444,
+        "status": "eligible",
+        "rank": 105.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1974716,
+              30.5799335
+            ],
+            [
+              76.1971392,
+              30.552868
+            ],
+            [
+              76.2284119,
+              30.5525767
+            ],
+            [
+              76.228753,
+              30.5796419
+            ],
+            [
+              76.1974716,
+              30.5799335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B109",
+        "total_px": 22500,
+        "area_km2": 9.0,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4151235531,
+        "prediction": 0.4151235531,
+        "change": 0.0,
+        "valid_fraction": 0.5793777778,
+        "status": "eligible",
+        "rank": 95.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.228753,
+              30.5796419
+            ],
+            [
+              76.2284119,
+              30.5525767
+            ],
+            [
+              76.250094,
+              30.5523703
+            ],
+            [
+              76.2501033,
+              30.5530921
+            ],
+            [
+              76.2498948,
+              30.5530941
+            ],
+            [
+              76.250103,
+              30.5693331
+            ],
+            [
+              76.2498945,
+              30.5693351
+            ],
+            [
+              76.2500241,
+              30.5794394
+            ],
+            [
+              76.228753,
+              30.5796419
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B110",
+        "total_px": 15398,
+        "area_km2": 6.1592,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3975865546,
+        "prediction": 0.3975865546,
+        "change": 0.0,
+        "valid_fraction": 0.7294453825,
+        "status": "eligible",
+        "rank": 82.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.95007,
+              30.554905
+            ],
+            [
+              75.9500225,
+              30.5500328
+            ],
+            [
+              75.9646173,
+              30.5499255
+            ],
+            [
+              75.964619,
+              30.550106
+            ],
+            [
+              75.9781713,
+              30.5500049
+            ],
+            [
+              75.9782183,
+              30.5546966
+            ],
+            [
+              75.95007,
+              30.554905
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B111",
+        "total_px": 3580,
+        "area_km2": 1.432,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3274628557,
+        "prediction": 0.3274628557,
+        "change": 0.0,
+        "valid_fraction": 0.8656424581,
+        "status": "eligible",
+        "rank": 19.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9782183,
+              30.5546966
+            ],
+            [
+              75.9781713,
+              30.5500049
+            ],
+            [
+              75.9858856,
+              30.5499467
+            ],
+            [
+              75.9858874,
+              30.5501271
+            ],
+            [
+              76.0073623,
+              30.5499628
+            ],
+            [
+              76.0073642,
+              30.5501432
+            ],
+            [
+              76.0094491,
+              30.5501271
+            ],
+            [
+              76.0094939,
+              30.5544579
+            ],
+            [
+              75.9782183,
+              30.5546966
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B112",
+        "total_px": 3777,
+        "area_km2": 1.5108,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.2967104884,
+        "prediction": 0.2967104884,
+        "change": 0.0,
+        "valid_fraction": 0.8202276939,
+        "status": "eligible",
+        "rank": 6.0,
+        "shortlisted": true,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0094939,
+              30.5544579
+            ],
+            [
+              76.0094491,
+              30.5501271
+            ],
+            [
+              76.0286304,
+              30.549977
+            ],
+            [
+              76.0286324,
+              30.5501575
+            ],
+            [
+              76.0407249,
+              30.5500614
+            ],
+            [
+              76.0407692,
+              30.5542117
+            ],
+            [
+              76.0094939,
+              30.5544579
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B113",
+        "total_px": 3542,
+        "area_km2": 1.4168,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.2886530485,
+        "prediction": 0.2886530485,
+        "change": 0.0,
+        "valid_fraction": 0.8828345567,
+        "status": "eligible",
+        "rank": 1.0,
+        "shortlisted": true,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0407692,
+              30.5542117
+            ],
+            [
+              76.0407249,
+              30.5500614
+            ],
+            [
+              76.050107,
+              30.5499861
+            ],
+            [
+              76.0501089,
+              30.5501665
+            ],
+            [
+              76.0713749,
+              30.5499933
+            ],
+            [
+              76.0713769,
+              30.5501737
+            ],
+            [
+              76.0720024,
+              30.5501686
+            ],
+            [
+              76.072044,
+              30.5539579
+            ],
+            [
+              76.0407692,
+              30.5542117
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B114",
+        "total_px": 3342,
+        "area_km2": 1.3368,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3292869104,
+        "prediction": 0.3292869104,
+        "change": 0.0,
+        "valid_fraction": 0.7935368043,
+        "status": "eligible",
+        "rank": 20.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.072044,
+              30.5539579
+            ],
+            [
+              76.0720024,
+              30.5501686
+            ],
+            [
+              76.0928512,
+              30.5499953
+            ],
+            [
+              76.0928532,
+              30.5501757
+            ],
+            [
+              76.1032776,
+              30.5500878
+            ],
+            [
+              76.1033184,
+              30.5536967
+            ],
+            [
+              76.072044,
+              30.5539579
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B115",
+        "total_px": 3100,
+        "area_km2": 1.24,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3656106125,
+        "prediction": 0.3656106125,
+        "change": 0.0,
+        "valid_fraction": 0.8138709677,
+        "status": "eligible",
+        "rank": 53.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1033184,
+              30.5536967
+            ],
+            [
+              76.1032776,
+              30.5500878
+            ],
+            [
+              76.1141189,
+              30.5499955
+            ],
+            [
+              76.114121,
+              30.550176
+            ],
+            [
+              76.1345526,
+              30.5499996
+            ],
+            [
+              76.1345925,
+              30.553428
+            ],
+            [
+              76.1033184,
+              30.5536967
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B116",
+        "total_px": 2902,
+        "area_km2": 1.1608,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3518334199,
+        "prediction": 0.3518334199,
+        "change": 0.0,
+        "valid_fraction": 0.7281185389,
+        "status": "eligible",
+        "rank": 47.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1345925,
+              30.553428
+            ],
+            [
+              76.1345526,
+              30.5499996
+            ],
+            [
+              76.135595,
+              30.5499905
+            ],
+            [
+              76.1355971,
+              30.5501709
+            ],
+            [
+              76.1568625,
+              30.5499838
+            ],
+            [
+              76.1568646,
+              30.5501642
+            ],
+            [
+              76.1658294,
+              30.5500842
+            ],
+            [
+              76.165866,
+              30.5531517
+            ],
+            [
+              76.1345925,
+              30.553428
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B117",
+        "total_px": 2662,
+        "area_km2": 1.0648,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4326364176,
+        "prediction": 0.4326364176,
+        "change": 0.0,
+        "valid_fraction": 0.5728775357,
+        "status": "eligible",
+        "rank": 109.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.165866,
+              30.5531517
+            ],
+            [
+              76.1658294,
+              30.5500842
+            ],
+            [
+              76.1781298,
+              30.5499735
+            ],
+            [
+              76.178132,
+              30.550154
+            ],
+            [
+              76.1971038,
+              30.549981
+            ],
+            [
+              76.1971392,
+              30.552868
+            ],
+            [
+              76.165866,
+              30.5531517
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B118",
+        "total_px": 2459,
+        "area_km2": 0.9836,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3722651403,
+        "prediction": 0.3722651403,
+        "change": 0.0,
+        "valid_fraction": 0.7080113867,
+        "status": "eligible",
+        "rank": 56.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1971392,
+              30.552868
+            ],
+            [
+              76.1971038,
+              30.549981
+            ],
+            [
+              76.1996055,
+              30.5499579
+            ],
+            [
+              76.1996077,
+              30.5501384
+            ],
+            [
+              76.2208726,
+              30.5499407
+            ],
+            [
+              76.2208749,
+              30.5501212
+            ],
+            [
+              76.2283801,
+              30.5500506
+            ],
+            [
+              76.2284119,
+              30.5525767
+            ],
+            [
+              76.1971392,
+              30.552868
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B119",
+        "total_px": 2226,
+        "area_km2": 0.8904,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.4037726456,
+        "prediction": 0.4037726456,
+        "change": 0.0,
+        "valid_fraction": 0.5381850854,
+        "status": "eligible",
+        "rank": 87.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2284119,
+              30.5525767
+            ],
+            [
+              76.2283801,
+              30.5500506
+            ],
+            [
+              76.2423481,
+              30.5499181
+            ],
+            [
+              76.2423504,
+              30.5500985
+            ],
+            [
+              76.250064,
+              30.5500247
+            ],
+            [
+              76.250094,
+              30.5523703
+            ],
+            [
+              76.2284119,
+              30.5525767
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "block_id": "B120",
+        "total_px": 1419,
+        "area_km2": 0.5676,
+        "origin_week": "2026-04-20T00:00:00.000",
+        "target_week": "2026-04-27T00:00:00.000",
+        "observed_ndvi": 0.3604311654,
+        "prediction": 0.3604311654,
+        "change": 0.0,
+        "valid_fraction": 0.8040873855,
+        "status": "eligible",
+        "rank": 51.0,
+        "shortlisted": false,
+        "shortlist_eligible": true
+      }
+    }
+  ]
+}

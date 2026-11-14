@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://sentinel-s2-l2a.s3.eu-central-1.amazonaws.com/tiles/43/R/FQ/2025/12/22/0/R10m/B04.jp2",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "url": "https://s3.eu-central-1.amazonaws.com/sentinel-s2-l2a/tiles/43/R/FQ/2025/12/22/0/R10m/B04.jp2",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  }
+]
