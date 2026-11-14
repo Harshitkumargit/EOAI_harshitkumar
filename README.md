@@ -11,6 +11,26 @@ This historical Sentinel-2 prototype ranks approximately 3 km cells in the Ludhi
 - Read [ai_assistant_log.md](ai_assistant_log.md) for the required disclosure.
 - Inspect [metrics.json](metrics.json), [test_predictions.csv](test_predictions.csv), and [forecast.csv](forecast.csv) for the saved evaluation and forecast.
 
+## Results at a glance
+
+These figures are from the saved historical replay for the week beginning 27 April 2026. They are not current observations or field-confirmed crop-stress results.
+
+### Historical forecast map
+
+Color shows predicted NDVI for eligible cells; grey cells are withheld. The shortlist ranks eligible cells with the lowest predicted NDVI for exploratory field inspection. The grid cells are approximately 3 km and do not correspond to farms or administrative boundaries.
+
+![Historical forecast map showing predicted NDVI by analysis cell](figures/forecast_map.png)
+
+### Evaluation against observed satellite NDVI
+
+The left panel compares predictions with subsequently observed satellite NDVI. The right panel shows error by target week. Persistence was selected, so its prediction errors match the selected model errors. These later-season observations informed development and are not an untouched final test.
+
+![Observed versus predicted NDVI and weekly error](figures/evaluation.png)
+
+Saved results: **1,161 / 3,000 cell-weeks scored (38.7%)**, MAE **0.072351**, RMSE **0.115787** NDVI units. No field-stress labels were available. Sentinel-2 radiometry is provisional pending independent source-product verification.
+
+The full interactive map, cell histories, shortlist, evaluation, and limitations are available in [dashboard.html](dashboard.html). The report and supporting CSV/JSON files provide additional detail.
+
 The selected predictor is persistence. It scored 1,161 of 3,000 requested cell-weeks (38.7%), with MAE 0.072351 and RMSE 0.115787 NDVI units. Later-season results informed development, so this is not an untouched final test. No field-confirmed crop-stress labels were available. Radiometric calibration remains provisional; see [radiometry review](reports/RADIOMETRY_FOLLOWUP.md).
 
 ## Reproduce the pipeline
